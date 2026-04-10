@@ -73,7 +73,6 @@ The application follows MERN architecture:
 <img width="1919" height="905" alt="Screenshot 2026-03-26 132358" src="https://github.com/user-attachments/assets/af765d9b-1d8f-4862-87ad-34259ee88360" />
 <img width="1919" height="908" alt="Screenshot 2026-03-26 133225" src="https://github.com/user-attachments/assets/96681c69-7e89-425b-b865-806c4f20088e" />
 <img width="1919" height="444" alt="Screenshot 2026-03-26 134051" src="https://github.com/user-attachments/assets/da280773-b554-44a2-bfad-f62e154ee681" />
-<img width="1919" height="311" alt="Screenshot 2026-03-26 134118" src="https://github.com/user-attachments/assets/c49cb1ec-5a69-4c00-b555-c6b9f25197a5" />
 <img width="1919" height="311" alt="Screenshot 2026-03-26 134118" src="https://github.com/user-attachments/assets/6c50f332-5173-4de5-a640-677571d74fa4" />
 <img width="1919" height="897" alt="Screenshot 2026-03-26 134312" src="https://github.com/user-attachments/assets/93afef59-2224-4a57-a340-b6a5cc0d3b24" />
 <img width="1919" height="911" alt="Screenshot 2026-03-26 134519" src="https://github.com/user-attachments/assets/095c71c2-3208-4e00-ad66-b64bbf2ee00e" />
