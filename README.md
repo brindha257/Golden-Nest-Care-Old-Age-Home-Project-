@@ -1,12 +1,12 @@
-# 🏡 Golden Nest Care – Old Age Home Management System
+#  Golden Nest Care – Old Age Home Management System
 
-## 📌 Project Overview
+##  Project Overview
 Golden Nest Care is a full-stack web application designed to support the management of an old age home.  
 It provides a digital platform for residents, staff, and the public to interact efficiently.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Provide a centralized system for managing residents and staff  
 - Enable easy donation and public support  
 - Create a marketplace for handmade products  
@@ -14,7 +14,7 @@ It provides a digital platform for residents, staff, and the public to interact 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js  
@@ -31,7 +31,7 @@ It provides a digital platform for residents, staff, and the public to interact 
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
 ### 🌐 Public Users
 - View services  
@@ -50,17 +50,17 @@ It provides a digital platform for residents, staff, and the public to interact 
 
 ---
 
-## ✨ Features
-- 🔐 Authentication (Login/Register)  
-- 🏥 Resident Management  
-- 🛒 Marketplace  
-- 🚨 SOS Alert System  
-- 💳 Donation Module  
-- 📊 Dashboard  
+##  Features
+-  Authentication (Login/Register)  
+-  Resident Management  
+-  Marketplace  
+-  SOS Alert System  
+-  Donation Module  
+-  Dashboard  
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 The application follows MERN architecture:
 - Client: React  
 - Server: Node + Express  
