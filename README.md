@@ -1,63 +1,71 @@
-Golden Nest Care – Old Age Home Management System
---Project Overview
+# 🏡 Golden Nest Care – Old Age Home Management System
 
-Golden Nest Care is a full-stack web application designed to support the management of an old age home. It provides a digital platform for residents, staff, and the public to interact efficiently. The system ensures better care, communication, and accessibility through modern web technologies.
+## 📌 Project Overview
+Golden Nest Care is a full-stack web application designed to support the management of an old age home.  
+It provides a digital platform for residents, staff, and the public to interact efficiently.
 
---Objectives
-To provide a centralized system for managing residents and staff
-To enable easy donation and support from the public
-To create a marketplace for residents to sell handmade products
-To ensure quick response during emergencies using an SOS module
---Tech Stack
---Frontend
-React.js
-HTML5, CSS3
-JavaScript
---Backend
-Node.js
-Express.js
-Database
---MongoDB
---Other Tools
-Git & GitHub
-VS Code
-👥 User Roles
-🌐 Public Users
-View home details and services
-Donate to the organization
-Purchase products from the marketplace
-🧑‍⚕️ Staff
-Manage resident information
-Monitor health and activities
-Handle emergency alerts (SOS system)
-👴 Residents
-Access personal dashboard
-Sell handmade products
-Use emergency SOS feature
-✨ Key Features
-🔐 User Authentication (Login/Register)
-🏥 Resident Management System
-🛒 Marketplace for Handmade Products
-🚨 SOS Emergency Alert System
-💳 Donation Module
-📊 Dashboard for Different Users
-🏗️ System Architecture
+---
 
-The application follows a MERN Stack Architecture:
+## 🎯 Objectives
+- Provide a centralized system for managing residents and staff  
+- Enable easy donation and public support  
+- Create a marketplace for handmade products  
+- Ensure quick emergency response using SOS  
 
-Client Side: React-based user interface
-Server Side: Node.js with Express handling API requests
-Database: MongoDB storing user, resident, and transaction data
-📂 Project Structure
-Golden-Nest-Care/
-│
-├── client/          # React frontend
-├── server/          # Node.js backend
-├── models/          # Database schemas
-├── routes/          # API routes
-├── controllers/     # Business logic
-├── config/          # Configuration files
-└── README.md
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Database
+- MongoDB  
+
+---
+
+## 👥 User Roles
+
+### 🌐 Public Users
+- View services  
+- Donate  
+- Purchase products  
+
+### 🧑‍⚕️ Staff
+- Manage residents  
+- Monitor health  
+- Handle SOS alerts  
+
+### 👴 Residents
+- Access dashboard  
+- Sell products  
+- Use SOS feature  
+
+---
+
+## ✨ Features
+- 🔐 Authentication (Login/Register)  
+- 🏥 Resident Management  
+- 🛒 Marketplace  
+- 🚨 SOS Alert System  
+- 💳 Donation Module  
+- 📊 Dashboard  
+
+---
+
+## 🏗️ System Architecture
+The application follows MERN architecture:
+- Client: React  
+- Server: Node + Express  
+- Database: MongoDB  
+
 📸 Screenshots
 <img width="1919" height="911" alt="Screenshot 2026-03-15 001121 - Copy" src="https://github.com/user-attachments/assets/55f5fbf8-3992-468e-8f11-f5beab966275" />
 <img width="1919" height="913" alt="Screenshot 2026-03-15 001156 - Copy - Copy" src="https://github.com/user-attachments/assets/09067a5b-e681-4e1d-9ca5-a3a1564013b9" />
@@ -73,15 +81,6 @@ Golden-Nest-Care/
 <img width="1919" height="915" alt="Screenshot 2026-03-26 135107" src="https://github.com/user-attachments/assets/1f650461-d246-4877-8fbe-6779e4463460" />
 <img width="1917" height="909" alt="Screenshot 2026-03-26 141501" src="https://github.com/user-attachments/assets/ec246b15-10a3-43d5-b4cb-7a36994ceaee" />
 <img width="1919" height="1019" alt="Screenshot 2026-03-30 095005" src="https://github.com/user-attachments/assets/b1ad3ce0-9e2b-4115-b178-c41e12f4fbad" />
-🚀 Future Enhancements
-Mobile application support
-AI-based health monitoring
-Online doctor consultation
-Advanced analytics dashboard
-🤝 Contribution
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-📄 License
-
-This project is developed for educational purposes.
+#📄 License
+#This project is developed for educational purposes.
